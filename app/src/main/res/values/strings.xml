@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">视频壁纸引擎</string>
+
+    <string name="video_wallpaper_play_error">视频壁纸播放出错，请重新设置</string>
+</resources>
